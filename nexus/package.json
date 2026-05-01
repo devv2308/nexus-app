@@ -1,0 +1,15 @@
+{
+  "name": "nexus-root",
+  "version": "1.0.0",
+  "description": "Root project for running frontend and backend concurrently",
+  "scripts": {
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev:backend": "start-backend.bat",
+    "dev": "concurrently -n \"frontend,backend\" -c \"cyan,magenta\" \"npm run dev:frontend\" \"npm run dev:backend\""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+}

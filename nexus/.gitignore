@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Uploads (don't commit user files)
+backend/uploads/
+!backend/uploads/.gitkeep
+
+# Environment
+.env
+!.env.example
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Misc
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+*.swp
