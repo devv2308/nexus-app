@@ -1,5 +1,4 @@
 # Nexus App
-
 A modern AI-powered application platform designed for productivity, automation, collaboration, and intelligent workflows.
 
 ---
