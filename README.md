@@ -10,7 +10,6 @@ Nexus App is a scalable full-stack platform built to combine AI tools, automatio
 The platform is designed for developers, creators, startups, students, and businesses that want to integrate intelligent workflows into their daily operations.
 
 ---
-
 # ✨ Features
 
 ## Core Features
