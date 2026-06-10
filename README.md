@@ -194,17 +194,6 @@ Nexus App integrates modern AI systems for:
 * GPU-ready AI infrastructure
 * Horizontal scalability
 * Edge deployment support
-
----
-
-# 📸 Screenshots
-
-Add screenshots or demo GIFs here.
-
-```md
-![Dashboard](./public/dashboard.png)
-```
-
 ---
 
 # 🌐 API Example
@@ -298,9 +287,8 @@ If you like this project:
 
 # 📬 Contact
 
-* Email: [your@email.com](mailto:your@email.com)
-* GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-* LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+* Email: [your@email.com](mailto:dev2308ydv@email.com)
+* GitHub: [https://github.com/yourusername](https://github.com/devv2308)
 
 ---
 
