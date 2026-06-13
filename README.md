@@ -2,7 +2,6 @@
 A modern AI-powered application platform designed for productivity, automation, collaboration, and intelligent workflows.
 
 ---
-
 # 🚀 Overview
 Nexus App is a scalable full-stack platform built to combine AI tools, automation systems, real-time collaboration, and modern web technologies into a single ecosystem.
 
@@ -124,9 +123,7 @@ cd nexus-app
 ```bash
 npm install
 ```
-
 or
-
 ```bash
 yarn install
 ```
